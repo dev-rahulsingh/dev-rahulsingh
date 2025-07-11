@@ -14,6 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Rahul</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 🔭 I’m currently working on **improving backend knowledge**
+
+- 🌱 I’m currently learning **backend concept email, payment gateway**
+
+- 👯 I’m looking to collaborate on **fullstack projects**
+
+- 💬 Ask me about **frontend technologies**
+
+- 📫 How to reach me **docoderahul@gmail.com**
+
+- ⚡ Fun fact **always ready steady pooooo 😂😂😂**
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
