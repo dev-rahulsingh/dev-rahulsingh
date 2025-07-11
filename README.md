@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **always ready steady pooooo 😂😂😂**
 
 
-- 🔭 I’m currently working on **improving backend knowledge**<br><br>- 🌱 I’m currently learning **backend concept email, payment gateway**<br><br>- 👯 I’m looking to collaborate on **fullstack projects**<br><br>- 💬 Ask me about **frontend technologies**<br><br>- 📫 How to reach me **docoderahul@gmail.com**<br><br>- ⚡ Fun fact **always ready steady pooooo 😂😂😂**
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulsingh-developer) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31018440) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:docoderahul@gmail.com) 
